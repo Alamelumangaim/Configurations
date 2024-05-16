@@ -3,7 +3,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related QA APIs "
+  message: "Welcome to BankBytes accounts related QA APIs "
   contactDetails:
     name: "Smitha Ray - QA Lead"
     email: "{cipher}c8cc0a96ccc356adb5905a8a69637691deabfff80393f0940848a4b74ab36432ebd7fae88e37a4631297074666139b34"
